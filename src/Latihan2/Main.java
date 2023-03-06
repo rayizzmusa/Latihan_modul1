@@ -9,7 +9,7 @@ public class Main {
         Konsumsi<Makanan, Minuman> lunch = new Konsumsi<>();
 
         Makanan roti = new Makanan();
-        roti.setNamaHidangan("Roti Tawar");
+        roti.setNamaHidangan("Roti Tawar ");
         Minuman susu = new Minuman();
         susu.setNamaHidangan("Susu Sapi");
         breakfast.setKonsumsi(roti, susu);
